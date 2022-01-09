@@ -2,7 +2,7 @@ body {
   padding: base-spacing-unit;
   font-family: "Source Sans Pro", sans-serif;
   margin: 0;
-  background-image: url(img1/1.jpg);
+  background-image: url("img/website-background.jpg");
 }
 
 h1,
